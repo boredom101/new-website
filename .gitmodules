@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/EleutherAI/EleutherAI.github.io.git
+	branch = main
