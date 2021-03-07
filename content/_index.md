@@ -5,5 +5,5 @@ promo_title: "Welcome to EleutherAI"
 promo_text: "A grassroots collection of researchers working to open source AI research."
 ---
 
-- [Join us on Discord](https://discord.com/invite/vtRgjbM)
+- [Join us on Discord](https://discord.gg/GkX9MSjWAK)
 - [Check our Github](https://github.com/EleutherAI)
