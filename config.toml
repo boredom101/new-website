@@ -1,4 +1,4 @@
-baseURL = "https://eleuther.ai/"
+baseURL = "https://researcher2.eleuther.ai/"
 languageCode = "en-us"
 title = "Eleuther AI site"
 theme = "eai-theme"
