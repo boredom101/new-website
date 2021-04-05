@@ -6,12 +6,9 @@
 
 :root {
   --black: #000000;
-  --green: #699f56;
-  --blue: #34566f;
+  --blue: #5B63B7;
   --grey: #959595;
   --grey-2: #D8D8D8;
-  --red: #aa4926;
-  --orange: #cc7832;
 }
 
 body,
@@ -135,7 +132,7 @@ h1.logo a .logo-text{
 }
 
 .navigation a.active {
-  font-weight: 500;
+  color: #9296F0
 }
 
 .slide-menu {
@@ -225,7 +222,7 @@ h1.logo a .logo-text{
 
 .page-content blockquote {
   font-size: 1em;
-  border-left: 1px solid #959595;
+  border-left: 1px solid var(--grey);
   padding: 0.0em 0.6em;
   margin: 0.5em 1em;
   margin-left: 0.5;
